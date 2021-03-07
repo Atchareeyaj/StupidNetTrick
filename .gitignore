@@ -1,0 +1,8 @@
+users.txt
+*arduino_secrets.h
+*/arduino_secrets.h
+*/node_modules/*
+*.vscode*
+*.vscode*
+*.DS_Store
+20210306-stupidNetTrick01/arduino_secrets.h
