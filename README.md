@@ -1,7 +1,7 @@
 # StupidNetTrick
 
 **Arduino Controller Example**<br>
-circuit : 3 sanpbuttons connected to pin 6,7,8 on Ardiono Nano 33 IOT
+circuit : 3 sanpbuttons connected to pin 6,7,8 on Ardiono MKR1010
 
 **TouchDesigner Hue Controller Example**<br>
 project 1 : basic controller interface with buttons and sliders. Using WebClient DAT to send PUT request to HueHub <br>
